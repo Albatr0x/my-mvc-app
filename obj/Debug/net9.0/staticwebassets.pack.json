@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\albatros\\MVC\\my-mvc-app\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\albatros\\MVC\\my-mvc-app\\wwwroot\\js",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyMvcApp.props",
+      "PackagePath": "build\\MyMvcApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMvcApp.props",
+      "PackagePath": "buildMultiTargeting\\MyMvcApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyMvcApp.props",
+      "PackagePath": "buildTransitive\\MyMvcApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

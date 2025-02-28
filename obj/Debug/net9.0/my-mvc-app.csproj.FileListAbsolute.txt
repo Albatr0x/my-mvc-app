@@ -1,0 +1,9 @@
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.csproj.AssemblyReference.cache
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.AssemblyInfoInputs.cache
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.AssemblyInfo.cs
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.csproj.CoreCompileInputs.cache
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.MvcApplicationPartsAssemblyInfo.cs
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.MvcApplicationPartsAssemblyInfo.cache
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.RazorAssemblyInfo.cache
+D:\albatros\MVC\my-mvc-app\obj\Debug\net9.0\my-mvc-app.RazorAssemblyInfo.cs

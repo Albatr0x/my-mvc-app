@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My MVC App</h1>
+        <p>This is the home page of the application.</p>
+        <p>
+            <form asp-controller="Account" asp-action="Login" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-primary">Login</button>
+            </form>
+            |
+            <form asp-controller="Account" asp-action="Register" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-secondary">Register</button>
+            </form>
+        </p>
+    </div>
+</body>
+</html>
